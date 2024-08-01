@@ -1,0 +1,17 @@
+.category-section{
+    width: 400px;
+    margin: 50px auto;
+}
+.table-section{
+    width: 70%;
+    margin: 0 auto;
+}
+.category-section select{
+    background-color: #0fa8ae;
+    color: white;
+    text-transform: capitalize;
+}
+#products-table thead tr th {
+    background-color: #0fa8ae;
+    color: white;
+}
